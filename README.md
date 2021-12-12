@@ -1,10 +1,10 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangJaeWon22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
   
 </div>
 
-### Hi there 👋
+👋 Hi there 
 I have been studying coding since September 2021.
 I have mini-project experience using Node.js.
 I'm willing to learn not only Node.js but also other skills.
@@ -26,10 +26,8 @@ Every day I want to develop everything about me.
   
 
 <div align=center>
-  
-[![jjangjae's github stats](https://github-readme-stats.vercel.app/api?username=JangJaeWon22)](https://github.com/JangJaeWon22/github-readme-stats)
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangJaeWon22&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
