@@ -1,6 +1,6 @@
 <div align=left>
   
-[![Tech Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
+[![Tech Badge](http://img.shields.io/badge/-Tech-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xox123558@gmail.com)](mailto:xox123558@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/withdoule_jj/?hl=ko)](https://www.instagram.com/withdoule_jj/?hl=ko)
 	
