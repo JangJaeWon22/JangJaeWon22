@@ -4,11 +4,15 @@
   
 </div>
 
-# 짱재 Jang Jae Won
-
 ### Hi there 👋
+I have been studying coding since September 2021.
+I have mini-project experience using Node.js.
+I'm willing to learn not only Node.js but also other skills.
 
-## 📚 Skills & Tolls 📚
+I enjoy snowboard and fishing.
+Every day I want to develop everything about me.
+
+### 📚 Skills & Tolls 📚
 
 <div align=left>
 
@@ -17,7 +21,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
   
 
