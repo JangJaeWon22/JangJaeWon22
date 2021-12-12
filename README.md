@@ -6,13 +6,18 @@
 	
 </div>
 
-👋 Hi there 
-I have been studying coding since September 2021.
-I have mini-project experience using Node.js.
-I'm willing to learn not only Node.js but also other skills.
+Hi there 👋 
 
-I enjoy snowboard and fishing.
-Every day I want to develop everything about me.
+I have been studying coding since September 2021. 🚀
+
+I have mini-project experience using Node.js. 💎
+
+I'm willing to learn not only Node.js but also other skills. 👀
+
+
+I enjoy snowboard and fishing. 🏂 🎣
+
+Every day I want to develop everything about me. 📖
 
 ### 📚 Skills & Tolls 📚
 
