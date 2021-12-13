@@ -9,12 +9,12 @@
 <div align=left>
 Hi there 👋 <p>
 
-I have been studying coding since September 2021. 🚀<br>
-I have mini-project experience using Node.js. 💎<br>
-I'm willing to learn not only Node.js but also other skills. 👀<br>
+I have been studying coding since September 2021.🚀<br>
+I have mini-project experience using Node.js.💎<br>
+I'm willing to learn not only Node.js but also other skills.👀<br>
 <p>
-I enjoy snowboard and fishing. 🏂 🎣<br>
-Every day I want to develop everything about me. 📖<br>
+I enjoy snowboard and fishing.🏂 🎣<br>
+Every day I want to develop everything about me.📖<br>
 
 </div>
 
