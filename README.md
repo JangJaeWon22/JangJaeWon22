@@ -1,6 +1,6 @@
 <div align=left>
   
-[![경력기술서 Badge](http://img.shields.io/badge/-경력기술서-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
+[![경력기술서 Badge](http://img.shields.io/badge/-resume-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
 [![Gmail Badge](https://img.shields.io/badge/xox123558@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xox123558@gmail.com)](mailto:xox123558@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/withdoule_jj/?hl=ko)](https://www.instagram.com/withdoule_jj/?hl=ko)
 	
