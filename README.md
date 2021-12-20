@@ -45,7 +45,7 @@ Every day I want to develop everything about me.📖<br>
 	
 <!-- [![이력서 Badge](http://img.shields.io/badge/-resume-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33) -->
 	
-[경력 기술서](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33) [![이력서 Badge](http://img.shields.io/badge/-resume-black?style=flat-square&logo=github&link=https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33)
+### [경력 기술서](https://www.notion.so/e39bc83666d84a79b9bc5396b7320f33) 
   
 </div>
 
