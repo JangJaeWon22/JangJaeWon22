@@ -24,6 +24,8 @@ Every day I want to develop everything about me.📖<br>
 
 </div>
 
+---
+
 ### 📚 Skills & Tolls 📚
 
 <div align=left>
